@@ -125,11 +125,28 @@ oracle :version,관계형 데이터 베이스..sqldeveloper는 db가 아니라 �
   
 서블릿컨텍스트는 스프링 전체  
 일부분은 루트컨텍스트  
+  
+  
+  
+디비디비  
+![image](https://user-images.githubusercontent.com/80766275/204456288-370cc0de-57a1-43e8-8f06-629eeaac88eb.png)
+
+  
+
 
   
   
+작업 순서순서
+  
+![image](https://user-images.githubusercontent.com/80766275/204447674-2110659e-663d-49ee-8684-c0f0e8ce3bc9.png)  
+실종 ..ㅜㅜㅜ  
   
   
   
   
-![image](https://user-images.githubusercontent.com/80766275/204447674-2110659e-663d-49ee-8684-c0f0e8ce3bc9.png)
+페이지 디자인  
+![image](https://user-images.githubusercontent.com/80766275/204461578-55eeff5b-10b3-4540-a1e0-f7f1e9bdab9a.png)  
+  
+  
+  
+
