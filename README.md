@@ -126,6 +126,10 @@ oracle :version,관계형 데이터 베이스..sqldeveloper는 db가 아니라 �
 서블릿컨텍스트는 스프링 전체  
 일부분은 루트컨텍스트  
 
-
-
   
+  
+  
+  
+  
+  
+![image](https://user-images.githubusercontent.com/80766275/204447674-2110659e-663d-49ee-8684-c0f0e8ce3bc9.png)
